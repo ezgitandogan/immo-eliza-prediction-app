@@ -222,7 +222,7 @@ with open('randomforest_model.pkl', 'rb') as file:
 3. **View the Application**:
    - The page will display the embedded Streamlit application with the styled header and footer.
 
-<img src="img.png" alt="Real Estate Prediction" style="width: 60%; height: auto; border-radius: 5px"/>
+<img src="img.png" alt="Real Estate Prediction" style="width: 90%; height: auto; border-radius: 5px"/>
 
 [🔮 Real Estate Price Prediction - Web Interface](http://127.0.0.1:5500/index.html)
 
